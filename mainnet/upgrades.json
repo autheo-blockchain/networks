@@ -1,0 +1,10 @@
+[
+  {
+    "plan_name": "v1.1.0-power-scale",
+    "height": 1877000,
+    "binary_version": "v1.1.0",
+    "git_commit": "976ec4328d342a07e6ef7eb9ecaec222c55f29e1",
+    "docker_image": "ghcr.io/autheo-blockchain/autheod:1.1.0",
+    "docker_digest": "sha256:8d5bfa3b4dffdc0a4704db2a99187170e7f0a9dc39dd0b4ad43d344b843514b9"
+  }
+]
